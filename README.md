@@ -50,4 +50,4 @@ It allows you to access these games in restricted environments, such as schools 
 ---------------------------------
 
 This project is licensed under the **MIT License** - see the LICENSE file for details.  
-**Copyright (c) 2025 [Your Name]. All rights reserved.**
+**Copyright (c) 2025 hackz00. All rights reserved.**
