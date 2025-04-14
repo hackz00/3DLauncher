@@ -1,5 +1,5 @@
 # 3DLauncher - Slope & Death Run 3D
-## Unblocked Slope and Death Run 3D games on 3DLauncher.
+**Unblocked Slope and Death Run 3D games on 3DLauncher.**
 *Play your favorite 3D games with a neon-styled launcher.*
 
 ### Overview
