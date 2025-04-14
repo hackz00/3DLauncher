@@ -4,7 +4,7 @@
 
 **Unblocked Slope and Death Run 3D games on 3DLauncher.**
 
-*Play your favorite 3D games with a neon-styled launcher.*
+*Play your favorite 3D games on the web without a website!*
 
 [Demo](https://hackz00.github.io/3DLauncher/)
  | [Download](https://drive.google.com/file/d/1wr_bdmIHAWHaBt-N8GFn1JQMrsKhz_kH/view)
@@ -19,7 +19,7 @@ It allows you to access these games in restricted environments, such as schools 
 - Neon-styled user interface.
 - Fullscreen support.
 - "Panic Button" to switch to Google Classroom.
-- Responsive design for all devices.
+- Full HTML.
 - Open-source under the MIT License.
 
 === Getting Started ===
